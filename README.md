@@ -1,2 +1,3 @@
 # Netflix
-Replica of a responsive OTT platform Netflix
+Replica of a responsive OTT platform Netflix.
+
